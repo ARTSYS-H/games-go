@@ -18,8 +18,6 @@ Here’s a list of the games (or experiments) currently in this repository:
 
 1. **Pong**: Original Old School Pong.  
 
-*(Update this section for each new game added!)*  
-
 ## 🚀 Installation and Usage
 
 To run a game:  
