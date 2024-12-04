@@ -23,15 +23,15 @@ Here’s a list of the games (or experiments) currently in this repository:
 To run a game:  
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/ARTSYS-H/games-go.git
-   cd games-go
-  ```
+```bash
+git clone https://github.com/ARTSYS-H/games-go.git
+cd games-go
+```
 2. Navigate to the desired game's directory
 3. Compile and run the game:
-  ```bash
-  go run main.go
-  ```
+```bash
+go run main.go
+```
 
 ## 📚 Useful Resources
 
